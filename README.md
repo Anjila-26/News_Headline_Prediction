@@ -2,20 +2,6 @@
 
 A complete implementation of the Transformer encoder-decoder architecture from scratch using PyTorch for text summarization tasks. This project demonstrates the core components of the "Attention is All You Need" paper applied to headline generation from news article descriptions.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Dataset](#dataset)
-- [Implementation Details](#implementation-details)
-- [Components](#components)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [Results](#results)
-- [Mathematical Foundations](#mathematical-foundations)
-
 ## 🎯 Overview
 
 This project implements a complete Transformer encoder-decoder model for text summarization, specifically for generating news headlines from article descriptions. The implementation includes all core components:
